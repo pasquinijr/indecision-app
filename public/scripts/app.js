@@ -4,7 +4,7 @@ console.log('App.js is running!');
 
 var app = {
     title: 'Indecision App',
-    subtitle: "Don't you know what to do next?",
+    subtitle: 'Let me decide what you should do next!',
     options: []
 };
 
